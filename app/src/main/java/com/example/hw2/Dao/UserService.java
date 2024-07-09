@@ -1,4 +1,6 @@
-package com.example.hw2;
+package com.example.hw2.Dao;
+
+import com.example.hw2.Users;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

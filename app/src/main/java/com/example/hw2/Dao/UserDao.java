@@ -1,9 +1,10 @@
-package com.example.hw2;
+package com.example.hw2.Dao;
 
 import androidx.room.Dao;
 import androidx.room.Insert;
-import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
+
+import com.example.hw2.User;
 
 import java.util.List;
 

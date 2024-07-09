@@ -5,9 +5,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.example.hw2.User;
-import com.example.hw2.UserAdapter;
-import com.example.hw2.UsersDatabase;
+import com.example.hw2.DataBaseCreation.UsersDatabase;
 import com.example.hw2.databinding.UsersActivityBinding;
 
 import java.util.List;
